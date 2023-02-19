@@ -34,11 +34,8 @@ Logging
 2. Written in C
 3. Created with specific use case in mind.
 
-########################################################################
-# k8s                                                    splunk        #
-# prometheus               fluentbit                     datadog       #
-# linux                                                  cloudwatch    #
-# syslog                                                 elasticsearch #
-# firewall                                               opensearch    #
-########################################################################
+Here we will study how fluentbit will forward all logs to splunk,stdout and elasticsearch
 
+#######################################################################################
+Logs---------------------->fluentbit------------------->splunk/elasticsearch/stdout   #
+#######################################################################################
