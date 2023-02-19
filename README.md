@@ -24,4 +24,14 @@ Logging
      d. kube-proxy
      e. kubelete
  
- *Here we will Learn about Fluentbit and it's architecture
+ Here we will Learn about Fluentbit and it's architecture
+
+ ###########
+ Fluent bit
+ ###########
+
+1. opensource and very Light weight
+2. Written in C
+3. Created with specific use case in mind.
+
+
