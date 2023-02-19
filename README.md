@@ -34,4 +34,11 @@ Logging
 2. Written in C
 3. Created with specific use case in mind.
 
+########################################################################
+# k8s                                                    splunk        #
+# prometheus               fluentbit                     datadog       #
+# linux                                                  cloudwatch    #
+# syslog                                                 elasticsearch #
+# firewall                                               opensearch    #
+########################################################################
 
